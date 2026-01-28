@@ -76,17 +76,18 @@
 </p>
 
 <br/>
-🌟 What Drives Me
+<h2>🌟 What Drives Me</h2>
 I'm passionate about building high-quality applications, solving problems with data, and learning new technologies to improve processes.
 I enjoy collaborating with teams to deliver solutions that make an impact.
 <br/>
 
 <br/>
-📬 Get In Touch
+<h2>📬 Get In Touch</h2>
 <div align="center">
-  <p>I'm always open to interesting conversations and collaboration opportunities!</p>
+  <p>I'm always open to interesting conversations, collaboration, and contributing to exciting projects!</p>
   <a href="https://www.linkedin.com/in/josina-jose" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
+</br>
 
