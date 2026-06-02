@@ -13,7 +13,6 @@
   <ul>
     <li>🎓 Completed <strong>Data Analysis</strong> at <strong>McMaster University</strong> and currently pursuing <strong>Mobile Application Development</strong> at <strong>Seneca Polytechnic</strong>.</li>
     <li>🧪 QA Analyst with experience in manual & automation testing using <strong>Selenium & Java</strong>.</li>
-    <li>💼 Currently working with <strong>Riipen</strong> as a Business/Data Analyst, applying practical data skills in projects.</li>
     <li>💡 Passionate about learning new technologies and improving software quality.</li>
   </ul>
 </div>
